@@ -10,6 +10,9 @@ def perkalian(a,b):
 def penambahan(a,b):
     return a+b
 
+def pembagian(a,b):
+    return a/b
+
 def main():
     print(penambahan(5,1))
     print(perkalian(5,1))
